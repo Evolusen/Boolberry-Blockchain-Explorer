@@ -1,4 +1,4 @@
-var api = '18.221.22.132:44414';
+var api = 'http://18.221.22.132:44414';
 var blockTargetInterval = 90;
 var coinUnits = 2251280000000;
 var symbol = 'UNA';
